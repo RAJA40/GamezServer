@@ -1,4 +1,4 @@
-Gamez Server
+Gamez Servers
 ===========
 
 <hr />
